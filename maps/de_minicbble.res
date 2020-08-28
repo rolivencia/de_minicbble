@@ -1,0 +1,10 @@
+maps/de_minicbble.res
+maps/de_minicbble.txt
+maps/de_minicbble_detail.txt
+overviews/de_minicbble.bmp
+overviews/de_minicbble.txt
+src/de_minicbble.map
+src/de_minicbble.pts
+src/de_minicbble.res
+src/de_minicbble.rmf
+czde_cbble.wad

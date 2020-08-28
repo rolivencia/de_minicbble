@@ -1,0 +1,15 @@
+// overview description file for as_oilrig.bsp
+
+global 
+{
+	ZOOM	1.60
+	ORIGIN	-256 	-125.81	-272
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_minicbble.bmp"
+	HEIGHT	-1110
+}
+

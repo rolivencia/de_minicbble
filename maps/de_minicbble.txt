@@ -1,0 +1,30 @@
+de_minicbble [Versión Final]
+
+Por Ramiro Olivencia alias Mapper22, alias BruceDickinson
+
+mapper22@gmail.com      
+
+Nombre del mapa:   	de_minicbble
+Tamaño:			6mb aproximadamente
+
+Mod:			Counter-Strike y Counter-Strike: Condition Zero
+	
+Editor:			Valve Hammer Editor v3.5
+Tiempo de compilación: 	10 minutos aproximadamente
+Tools: 			ZHLT v3.2.1
+
+Otros mapas por mí:	gt_legov2, mp22_warehouse, de_sandtemple
+
+======================================================================
+ 
+Y bueno, como siempre, los agradecimientos...
+
+Primero que nada, como siempre, a los chicos de la ex-Mapland, que gracias 
+a ellos pude llegar hasta acá, y también van agradecimientos a los mods del 
+subforo de Counter-Strike, en especial a Raven, por haber gestionado para 
+tener un pequeño espacio dedicado al mapping...
+
+Enjoy!
+
+
+
