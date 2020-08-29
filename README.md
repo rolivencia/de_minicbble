@@ -31,7 +31,7 @@ By Ramiro Olivencia alias Mapper22, alias BruceDickinson (mapper22@gmail.com)
 	
 **Editor:**			Valve Hammer Editor v3.5
 
-**Compilation time:** 	10 minutos aproximadamente
+**Compilation time:** 	Approximately 10 minutes
 
 **Tools:** 			ZHLT v3.2.1
 
