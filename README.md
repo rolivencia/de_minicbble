@@ -3,8 +3,8 @@ An original defuse (de_) map created in September, 2005 for **Counter-Strike 1.6
 
 ## If you only want to play this in Counter-Strike 1.6:
 
-The **czde_cbble.wad** file must be copied to the **/cstrike** directory, together with the maps and overviews
-folders, if it is used in Counter-Strike 1.6. This file is already added in Counter-Strike: Condition-Zero.
+The **czde_cbble.wad** file must be copied to the **/cstrike** directory, together with the **maps** and **overviews**
+folders located in the **/cs** folder, if it is used in Counter-Strike 1.6. This file is already added in Counter-Strike: Condition-Zero.
 
 ## What is each file and what does each folder contain?
 
