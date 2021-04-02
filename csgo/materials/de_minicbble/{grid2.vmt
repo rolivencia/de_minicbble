@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmapAlphaBlend
+	"%compilepassbullets" 1
+	"$alphatest" 1
+	"$basetexture" "de_minicbble/{grid2"
+	"$surfaceprop" "metalgrate"
+}

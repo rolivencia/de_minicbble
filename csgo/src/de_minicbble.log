@@ -1,0 +1,132 @@
+
+materialPath: D:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo_ports\materials
+Loading D:\Hammer\GoldSrc to Source\cs16\de_minicbble\de_minicbble.vmf
+Map revision 34
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Hammer\GoldSrc to Source\cs16\de_minicbble\de_minicbble.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (256471 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1486 texinfos to 748
+Reduced 33 texdatas to 33 (714 bytes to 714)
+Writing D:\Hammer\GoldSrc to Source\cs16\de_minicbble\de_minicbble.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\hammer\goldsrc to source\cs16\de_minicbble\de_minicbble.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+4 threads
+reading d:\hammer\goldsrc to source\cs16\de_minicbble\de_minicbble.bsp
+reading d:\hammer\goldsrc to source\cs16\de_minicbble\de_minicbble.prt
+ 763 portalclusters
+2199 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1769 visible clusters (0.00%)
+Total clusters visible: 205609
+Average clusters visible: 269
+Building PAS...
+Average clusters audible: 711
+visdatasize:132670  compressed from 146496
+writing d:\hammer\goldsrc to source\cs16\de_minicbble\de_minicbble.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\hammer\goldsrc to source\cs16\de_minicbble\de_minicbble.bsp', but we don't own that location. Allowing...
+16 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading d:\hammer\goldsrc to source\cs16\de_minicbble\de_minicbble.bsp
+3012 faces
+286900 square feet [41313668.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3012 patches before subdivision
+33926 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3343684, max 602
+transfer lists:  25.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(311397, 242257, 129765)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(28186, 18870, 7321)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3085, 1650, 463)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(351, 152, 31)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(44, 15, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(6, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0069 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  50/1024         2400/49152    ( 4.9%) 
+brushes                603/8192         7236/98304    ( 7.4%) 
+brushsides            4545/81920       36360/655360   ( 5.5%) 
+planes                2172/65536       43440/1310720  ( 3.3%) 
+vertexes              4380/65536       52560/786432   ( 6.7%) 
+nodes                 1891/65536       60512/2097152  ( 2.9%) 
+texinfos               748/12288       53856/884736   ( 6.1%) 
+texdata                 33/4096         1056/131072   ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3012/65536      168672/3670016  ( 4.6%) 
+hdr faces             3012/65536      168672/3670016  ( 4.6%) 
+origfaces             1974/65536      110544/3670016  ( 3.0%) 
+facebrushes            260/0             520/0        ( 0.0%) 
+facebrushlists        3012/0           12048/0        ( 0.0%) 
+leaves                1942/65536       62144/2097152  ( 3.0%) 
+leaffaces             3349/65536        6698/131072   ( 5.1%) 
+leafbrushes           1304/65536        2608/131072   ( 2.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            21671/512000      86684/2048000  ( 4.2%) 
+edges                12068/256000      48272/1024000  ( 4.7%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            157/32768        1570/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2736/65536        5472/131072   ( 4.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1439368/0        ( 0.0%) 
+visdata               [variable]      132670/16777216 ( 0.8%) 
+entdata               [variable]       15115/393216   ( 3.8%) 
+LDR ambient table     1942/65536        7768/262144   ( 3.0%) 
+HDR ambient table     1942/65536        7768/262144   ( 3.0%) 
+LDR leaf ambient      1942/65536       54376/1835008  ( 3.0%) 
+HDR leaf ambient      8689/65536      243292/1835008  (13.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74446/0        ( 0.0%) 
+physics               [variable]      256471/4194304  ( 6.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 7697
+Writing d:\hammer\goldsrc to source\cs16\de_minicbble\de_minicbble.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\hammer\goldsrc to source\cs16\de_minicbble\de_minicbble.bsp', but we don't own that location. Allowing...
+54 seconds elapsed

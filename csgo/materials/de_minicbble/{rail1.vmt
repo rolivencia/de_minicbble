@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmapAlphaBlend
+	"%compilepassbullets" 1
+//        "$basetexturetransform" "center .5 .5 scale 1 .98 rotate 0 translate 0 0.17"
+	"$alphatest" 1
+	"$basetexture" "de_minicbble/{rail1"
+	"$surfaceprop" "metal"
+}
