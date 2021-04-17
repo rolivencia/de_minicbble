@@ -1,0 +1,11 @@
+"de_minicbble"
+{
+	"CTSpawn_x" "0.71"
+	"CTSpawn_y" "0.31"
+	"TSpawn_x" "0.70"
+	"TSpawn_y" "0.84"
+	"material" "overviews/de_minicbble_radar"
+	"pos_x" "-2688.000000"
+	"pos_y" "2304.000000"
+	"scale" "4.750000"
+}
