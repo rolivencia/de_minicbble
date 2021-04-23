@@ -1,4 +1,7 @@
 # de_minicbble
+
+![image](https://user-images.githubusercontent.com/32349705/115899932-c4635c00-a435-11eb-9447-90fbfa2fe078.png)
+
 An original defuse (de_) map created in September, 2005 for **Counter-Strike 1.6** / **Counter-Strike: Condition Zero** and ported to **Counter-Strike: Global Offensive**.
 
 ## If you only want to play this in Counter-Strike 1.6:
