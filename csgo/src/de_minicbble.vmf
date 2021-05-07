@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8456"
-	"mapversion" "34"
+	"mapversion" "39"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -62,13 +62,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "1"
+	"nGridSpacing" "16"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "0"
-	"mapversion" "34"
+	"mapversion" "39"
 	"classname" "worldspawn"
 	"_generator" "J.A.C.K. 1.1.2276 (vpHalfLife)"
 	"angles" "0 0 0"
@@ -43254,6 +43254,64 @@ world
 }
 entity
 {
+	"id" "5133"
+	"classname" "info_overlay"
+	"angles" "0 0 0"
+	"BasisNormal" "0 -0 1"
+	"BasisOrigin" "-704 1504 32"
+	"BasisU" "1 0 0"
+	"BasisV" "-0 1 0"
+	"EndU" "1"
+	"EndV" "0"
+	"fademindist" "-1"
+	"material" "decals/bombsite_x_spray"
+	"sides" "1409"
+	"StartU" "0"
+	"StartV" "1"
+	"uv0" "-128 -112 0"
+	"uv1" "-128 112 0"
+	"uv2" "128 112 0"
+	"uv3" "128 -112 0"
+	"origin" "-704 1504 32"
+	editor
+	{
+		"color" "80 150 225"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "5286"
+	"classname" "info_overlay"
+	"angles" "0 330 0"
+	"BasisNormal" "0 0 1"
+	"BasisOrigin" "544 -48 0"
+	"BasisU" "0.866025 -0.5 0"
+	"BasisV" "0.5 0.866025 0"
+	"EndU" "1"
+	"EndV" "0"
+	"fademindist" "-1"
+	"material" "decals/bombsite_x_spray"
+	"sides" "439"
+	"StartU" "0"
+	"StartV" "1"
+	"uv0" "-128 -112 0"
+	"uv1" "-128 112 0"
+	"uv2" "128 112 0"
+	"uv3" "128 -112 0"
+	"origin" "544 -48 0"
+	editor
+	{
+		"color" "80 150 225"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
 	"id" "4944"
 	"classname" "light_environment"
 	"_ambient" "255 255 255 400"
@@ -45699,38 +45757,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -13268]"
-	}
-}
-entity
-{
-	"id" "4127"
-	"classname" "infodecal"
-	"angles" "0 0 0"
-	"texture" "decals/{TARGET"
-	"origin" "-701.094 1643.17 32"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupid" "42"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 -12768]"
-	}
-}
-entity
-{
-	"id" "4128"
-	"classname" "infodecal"
-	"angles" "0 0 0"
-	"texture" "decals/{TARGET"
-	"origin" "495.339 -20.7231 0"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupid" "43"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 -12268]"
 	}
 }
 entity
@@ -50613,8 +50639,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-632.428 1288.09 167.39]"
-		"look" "[-648.841 1309.41 164.942]"
+		"position" "[617.97 -1413.64 319.191]"
+		"look" "[634.862 -1433.21 311.384]"
 	}
 }
 cordons
