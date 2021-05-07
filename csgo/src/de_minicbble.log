@@ -722,3 +722,669 @@ Total triangle count: 7697
 Writing c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp
 MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp', but we don't own that location. Allowing...
 17 seconds elapsed
+
+
+
+materialPath: D:\Games\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.vmf
+Map revision 47
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (257671 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1488 texinfos to 744
+Reduced 34 texdatas to 34 (738 bytes to 738)
+Writing c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp
+reading c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.prt
+ 764 portalclusters
+2193 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1808 visible clusters (0.00%)
+Total clusters visible: 205669
+Average clusters visible: 269
+Building PAS...
+Average clusters audible: 712
+visdatasize:132680  compressed from 146688
+writing c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp', but we don't own that location. Allowing...
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp
+Loaded alpha texture materials\de_minicbble\{grid2.vtf
+3013 faces
+286884 square feet [41311312.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3013 patches before subdivision
+34063 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3343411, max 603
+transfer lists:  25.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(311017, 241944, 129375)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(28076, 18789, 7261)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3069, 1639, 457)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(349, 151, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(44, 15, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(6, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0056 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  50/1024         2400/49152    ( 4.9%) 
+brushes                607/8192         7284/98304    ( 7.4%) 
+brushsides            4568/81920       36544/655360   ( 5.6%) 
+planes                2172/65536       43440/1310720  ( 3.3%) 
+vertexes              4379/65536       52548/786432   ( 6.7%) 
+nodes                 1896/65536       60672/2097152  ( 2.9%) 
+texinfos               744/12288       53568/884736   ( 6.1%) 
+texdata                 34/4096         1088/131072   ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3013/65536      168728/3670016  ( 4.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1982/65536      110992/3670016  ( 3.0%) 
+facebrushes            257/0             514/0        ( 0.0%) 
+facebrushlists        3013/0           12052/0        ( 0.0%) 
+leaves                1947/65536       62304/2097152  ( 3.0%) 
+leaffaces             3353/65536        6706/131072   ( 5.1%) 
+leafbrushes           1312/65536        2624/131072   ( 2.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            21702/512000      86808/2048000  ( 4.2%) 
+edges                12088/256000      48352/1024000  ( 4.7%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            155/32768        1550/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2679/65536        5358/131072   ( 4.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]     1440952/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      132680/16777216 ( 0.8%) 
+entdata               [variable]       21034/393216   ( 5.3%) 
+LDR ambient table     1947/65536        7788/262144   ( 3.0%) 
+HDR ambient table     1947/65536        7788/262144   ( 3.0%) 
+LDR leaf ambient      8697/65536      243516/1835008  (13.3%) 
+HDR leaf ambient      1947/65536       54516/1835008  ( 3.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74446/0        ( 0.0%) 
+physics               [variable]      257671/4194304  ( 6.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7d
+
+Total triangle count: 7695
+Writing c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp', but we don't own that location. Allowing...
+17 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp
+Loaded alpha texture materials\de_minicbble\{grid2.vtf
+3013 faces
+286884 square feet [41311312.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3013 patches before subdivision
+34063 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3343411, max 603
+transfer lists:  25.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(311016, 241943, 129376)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(28076, 18788, 7261)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3069, 1639, 457)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(349, 151, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(44, 15, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(6, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0060 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  50/1024         2400/49152    ( 4.9%) 
+brushes                607/8192         7284/98304    ( 7.4%) 
+brushsides            4568/81920       36544/655360   ( 5.6%) 
+planes                2172/65536       43440/1310720  ( 3.3%) 
+vertexes              4379/65536       52548/786432   ( 6.7%) 
+nodes                 1896/65536       60672/2097152  ( 2.9%) 
+texinfos               744/12288       53568/884736   ( 6.1%) 
+texdata                 34/4096         1088/131072   ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3013/65536      168728/3670016  ( 4.6%) 
+hdr faces             3013/65536      168728/3670016  ( 4.6%) 
+origfaces             1982/65536      110992/3670016  ( 3.0%) 
+facebrushes            257/0             514/0        ( 0.0%) 
+facebrushlists        3013/0           12052/0        ( 0.0%) 
+leaves                1947/65536       62304/2097152  ( 3.0%) 
+leaffaces             3353/65536        6706/131072   ( 5.1%) 
+leafbrushes           1312/65536        2624/131072   ( 2.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            21702/512000      86808/2048000  ( 4.2%) 
+edges                12088/256000      48352/1024000  ( 4.7%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            155/32768        1550/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2679/65536        5358/131072   ( 4.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]     1440952/0        ( 0.0%) 
+HDR lightdata         [variable]     1440952/0        ( 0.0%) 
+visdata               [variable]      132680/16777216 ( 0.8%) 
+entdata               [variable]       21034/393216   ( 5.3%) 
+LDR ambient table     1947/65536        7788/262144   ( 3.0%) 
+HDR ambient table     1947/65536        7788/262144   ( 3.0%) 
+LDR leaf ambient      8697/65536      243516/1835008  (13.3%) 
+HDR leaf ambient      8697/65536      243516/1835008  (13.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74446/0        ( 0.0%) 
+physics               [variable]      257671/4194304  ( 6.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7f
+
+Total triangle count: 7695
+Writing c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp', but we don't own that location. Allowing...
+16 seconds elapsed
+
+
+
+materialPath: D:\Games\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.vmf
+Map revision 48
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (255799 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1488 texinfos to 743
+Reduced 34 texdatas to 34 (738 bytes to 738)
+Writing c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp
+reading c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.prt
+ 742 portalclusters
+2117 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1739 visible clusters (0.00%)
+Total clusters visible: 197814
+Average clusters visible: 266
+Building PAS...
+Average clusters audible: 692
+visdatasize:125156  compressed from 142464
+writing c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp', but we don't own that location. Allowing...
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp
+Loaded alpha texture materials\de_minicbble\{grid2.vtf
+2990 faces
+286884 square feet [41311312.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2990 patches before subdivision
+33926 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3299228, max 599
+transfer lists:  25.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(308269, 240116, 128419)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27890, 18681, 7223)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3044, 1629, 454)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(347, 150, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(43, 15, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(6, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0054 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  50/1024         2400/49152    ( 4.9%) 
+brushes                605/8192         7260/98304    ( 7.4%) 
+brushsides            4540/81920       36320/655360   ( 5.5%) 
+planes                2172/65536       43440/1310720  ( 3.3%) 
+vertexes              4356/65536       52272/786432   ( 6.6%) 
+nodes                 1865/65536       59680/2097152  ( 2.8%) 
+texinfos               743/12288       53496/884736   ( 6.0%) 
+texdata                 34/4096         1088/131072   ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2990/65536      167440/3670016  ( 4.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1961/65536      109816/3670016  ( 3.0%) 
+facebrushes            263/0             526/0        ( 0.0%) 
+facebrushlists        2990/0           11960/0        ( 0.0%) 
+leaves                1916/65536       61312/2097152  ( 2.9%) 
+leaffaces             3335/65536        6670/131072   ( 5.1%) 
+leafbrushes           1301/65536        2602/131072   ( 2.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            21524/512000      86096/2048000  ( 4.2%) 
+edges                11995/256000      47980/1024000  ( 4.7%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            158/32768        1580/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2709/65536        5418/131072   ( 4.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]     1443120/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      125156/16777216 ( 0.7%) 
+entdata               [variable]       21034/393216   ( 5.3%) 
+LDR ambient table     1916/65536        7664/262144   ( 2.9%) 
+HDR ambient table     1916/65536        7664/262144   ( 2.9%) 
+LDR leaf ambient      8632/65536      241696/1835008  (13.2%) 
+HDR leaf ambient      1916/65536       53648/1835008  ( 2.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74446/0        ( 0.0%) 
+physics               [variable]      255799/4194304  ( 6.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7d
+
+Total triangle count: 7647
+Writing c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp', but we don't own that location. Allowing...
+16 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp
+Loaded alpha texture materials\de_minicbble\{grid2.vtf
+2990 faces
+286884 square feet [41311312.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2990 patches before subdivision
+33926 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3299228, max 599
+transfer lists:  25.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(308269, 240116, 128419)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27890, 18681, 7223)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3044, 1629, 454)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(347, 150, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(43, 15, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(6, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0063 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  50/1024         2400/49152    ( 4.9%) 
+brushes                605/8192         7260/98304    ( 7.4%) 
+brushsides            4540/81920       36320/655360   ( 5.5%) 
+planes                2172/65536       43440/1310720  ( 3.3%) 
+vertexes              4356/65536       52272/786432   ( 6.6%) 
+nodes                 1865/65536       59680/2097152  ( 2.8%) 
+texinfos               743/12288       53496/884736   ( 6.0%) 
+texdata                 34/4096         1088/131072   ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2990/65536      167440/3670016  ( 4.6%) 
+hdr faces             2990/65536      167440/3670016  ( 4.6%) 
+origfaces             1961/65536      109816/3670016  ( 3.0%) 
+facebrushes            263/0             526/0        ( 0.0%) 
+facebrushlists        2990/0           11960/0        ( 0.0%) 
+leaves                1916/65536       61312/2097152  ( 2.9%) 
+leaffaces             3335/65536        6670/131072   ( 5.1%) 
+leafbrushes           1301/65536        2602/131072   ( 2.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            21524/512000      86096/2048000  ( 4.2%) 
+edges                11995/256000      47980/1024000  ( 4.7%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            158/32768        1580/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2709/65536        5418/131072   ( 4.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]     1443120/0        ( 0.0%) 
+HDR lightdata         [variable]     1443120/0        ( 0.0%) 
+visdata               [variable]      125156/16777216 ( 0.7%) 
+entdata               [variable]       21034/393216   ( 5.3%) 
+LDR ambient table     1916/65536        7664/262144   ( 2.9%) 
+HDR ambient table     1916/65536        7664/262144   ( 2.9%) 
+LDR leaf ambient      8632/65536      241696/1835008  (13.2%) 
+HDR leaf ambient      8632/65536      241696/1835008  (13.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74446/0        ( 0.0%) 
+physics               [variable]      255799/4194304  ( 6.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7f
+
+Total triangle count: 7647
+Writing c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp', but we don't own that location. Allowing...
+15 seconds elapsed
+
+
+
+materialPath: D:\Games\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.vmf
+Map revision 48
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (255799 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1488 texinfos to 743
+Reduced 34 texdatas to 34 (738 bytes to 738)
+Writing c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+12 threads
+reading c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp
+reading c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.prt
+ 742 portalclusters
+2117 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1739 visible clusters (0.00%)
+Total clusters visible: 197814
+Average clusters visible: 266
+Building PAS...
+Average clusters audible: 692
+visdatasize:125156  compressed from 142464
+writing c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp', but we don't own that location. Allowing...
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp
+Loaded alpha texture materials\de_minicbble\{grid2.vtf
+2990 faces
+286884 square feet [41311312.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2990 patches before subdivision
+33926 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3299228, max 599
+transfer lists:  25.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(308269, 240116, 128419)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27890, 18681, 7223)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3044, 1629, 454)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(347, 150, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(43, 15, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(6, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0057 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  50/1024         2400/49152    ( 4.9%) 
+brushes                605/8192         7260/98304    ( 7.4%) 
+brushsides            4540/81920       36320/655360   ( 5.5%) 
+planes                2172/65536       43440/1310720  ( 3.3%) 
+vertexes              4356/65536       52272/786432   ( 6.6%) 
+nodes                 1865/65536       59680/2097152  ( 2.8%) 
+texinfos               743/12288       53496/884736   ( 6.0%) 
+texdata                 34/4096         1088/131072   ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2990/65536      167440/3670016  ( 4.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1961/65536      109816/3670016  ( 3.0%) 
+facebrushes            263/0             526/0        ( 0.0%) 
+facebrushlists        2990/0           11960/0        ( 0.0%) 
+leaves                1916/65536       61312/2097152  ( 2.9%) 
+leaffaces             3335/65536        6670/131072   ( 5.1%) 
+leafbrushes           1301/65536        2602/131072   ( 2.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            21524/512000      86096/2048000  ( 4.2%) 
+edges                11995/256000      47980/1024000  ( 4.7%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            158/32768        1580/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2709/65536        5418/131072   ( 4.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]     1443120/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      125156/16777216 ( 0.7%) 
+entdata               [variable]       21034/393216   ( 5.3%) 
+LDR ambient table     1916/65536        7664/262144   ( 2.9%) 
+HDR ambient table     1916/65536        7664/262144   ( 2.9%) 
+LDR leaf ambient      8632/65536      241696/1835008  (13.2%) 
+HDR leaf ambient      1916/65536       53648/1835008  ( 2.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74446/0        ( 0.0%) 
+physics               [variable]      255799/4194304  ( 6.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7d
+
+Total triangle count: 7647
+Writing c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp', but we don't own that location. Allowing...
+16 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp
+Loaded alpha texture materials\de_minicbble\{grid2.vtf
+2990 faces
+286884 square feet [41311312.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2990 patches before subdivision
+33926 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3299228, max 599
+transfer lists:  25.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(308270, 240117, 128419)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(27890, 18681, 7223)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3044, 1629, 454)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(347, 150, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(43, 15, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(6, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0059 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  50/1024         2400/49152    ( 4.9%) 
+brushes                605/8192         7260/98304    ( 7.4%) 
+brushsides            4540/81920       36320/655360   ( 5.5%) 
+planes                2172/65536       43440/1310720  ( 3.3%) 
+vertexes              4356/65536       52272/786432   ( 6.6%) 
+nodes                 1865/65536       59680/2097152  ( 2.8%) 
+texinfos               743/12288       53496/884736   ( 6.0%) 
+texdata                 34/4096         1088/131072   ( 0.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2990/65536      167440/3670016  ( 4.6%) 
+hdr faces             2990/65536      167440/3670016  ( 4.6%) 
+origfaces             1961/65536      109816/3670016  ( 3.0%) 
+facebrushes            263/0             526/0        ( 0.0%) 
+facebrushlists        2990/0           11960/0        ( 0.0%) 
+leaves                1916/65536       61312/2097152  ( 2.9%) 
+leaffaces             3335/65536        6670/131072   ( 5.1%) 
+leafbrushes           1301/65536        2602/131072   ( 2.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            21524/512000      86096/2048000  ( 4.2%) 
+edges                11995/256000      47980/1024000  ( 4.7%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            158/32768        1580/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2709/65536        5418/131072   ( 4.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]     1443120/0        ( 0.0%) 
+HDR lightdata         [variable]     1443120/0        ( 0.0%) 
+visdata               [variable]      125156/16777216 ( 0.7%) 
+entdata               [variable]       21034/393216   ( 5.3%) 
+LDR ambient table     1916/65536        7664/262144   ( 2.9%) 
+HDR ambient table     1916/65536        7664/262144   ( 2.9%) 
+LDR leaf ambient      8632/65536      241696/1835008  (13.2%) 
+HDR leaf ambient      8632/65536      241696/1835008  (13.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74446/0        ( 0.0%) 
+physics               [variable]      255799/4194304  ( 6.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7f
+
+Total triangle count: 7647
+Writing c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\ramiro olivencia\webstormprojects\de_minicbble\csgo\src\de_minicbble.bsp', but we don't own that location. Allowing...
+16 seconds elapsed
