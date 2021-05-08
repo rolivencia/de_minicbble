@@ -1,0 +1,21 @@
+Adaptación de "de_minicbble", desarrollada por Ramiro Olivencia, aka
+[url=https://steamcommunity.com/id/mapper22/] Murray[/url]
+
+Mapa original de desactivación (de_) creado en septiembre de 2005 para Counter-Strike 1.6 / Counter-Strike: Condition Zero y portado a Counter-Strike: Global Offensive.
+
+Port inicial a CSGO a cargo de Maxwell Ruiz, aka Maxwell Ruiz, aka [url=https://steamcommunity.com/id/AquaPlayer] WorstAquaPlayer[/url]
+
+**Versión 1.0 - 7/5/2020**
+
+Rework completo del mapa de CS 1.6/CS:CZ. Adaptadas geometría, texturas e iluminación originales. Leves cambios estéticos para detallar bombsites y ajustes de texturas.
+
+Modos de juego soportados:
+- Deathmatch
+- Clásico
+- Cazapatos
+- Carrera de Armas
+- Personalizado
+
+Número de spawns:
+- 10 T + 10 CT para Clásico/Cazapatos/Carrera de Armas/Personalizado
+- 20 para Deathmatch
