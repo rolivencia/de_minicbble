@@ -1,0 +1,23 @@
+Adaptation of the original "de_minicbble" developed by Ramiro Olivencia, aka
+[url=https://steamcommunity.com/id/mapper22/] Murray[/url]
+
+An original defuse (de_) map created in September, 2005 for Counter-Strike 1.6 / Counter-Strike: Condition Zero and ported to Counter-Strike: Global Offensive.
+
+CSGO port with contributions made by Maxwell Ruiz, aka [url=https://steamcommunity.com/id/AquaPlayer] WorstAquaPlayer[/url]
+
+Original textures by Chris "MacMan" Ashton. Original de_cbble map by Dave "DaveJ" Johnston.
+
+**Versión 1.0 - 7/5/2020**
+
+Complete map rework starting from the CS 1.6/CS:CZ version. Adapted geometry, textures and original lighting. Slight changes to detail bombsites and adjusted textures.
+
+Supported playing modes:
+- Deathmatch
+- Classic
+- Flying Scoutsman
+- Arms Race
+- Custom
+
+Spawn point numbers:
+- 10 T + 10 CT for Classic/Flying Scoutsman/Arms Race/Custom
+- 20 for Deathmatch

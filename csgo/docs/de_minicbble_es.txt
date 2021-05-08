@@ -5,6 +5,8 @@ Mapa original de desactivación (de_) creado en septiembre de 2005 para Counter-
 
 Port inicial a CSGO a cargo de Maxwell Ruiz, aka Maxwell Ruiz, aka [url=https://steamcommunity.com/id/AquaPlayer] WorstAquaPlayer[/url]
 
+Texturas originales por Chris "MacMan" Ashton. Mapa de_cbble a cargo de Dave "DaveJ" Johnston.
+ 
 **Versión 1.0 - 7/5/2020**
 
 Rework completo del mapa de CS 1.6/CS:CZ. Adaptadas geometría, texturas e iluminación originales. Leves cambios estéticos para detallar bombsites y ajustes de texturas.
